@@ -2,7 +2,8 @@
 
 ## Prérequis | Informations utiles 🔧
 
-> Posséder Virtual Box ou VMware, pour ce tp j'utilise VirtualBox.
+> Posséder [Virtual Box](https://www.virtualbox.org/wiki/Downloads) ou [VMware](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html), pour ce tp j'utilise VirtualBox.
+> Posséder un [iso Débian](https://www.debian.org/distrib/)
 
 -----
 ✍️ *Différence entre VMware et VirtualBox* ✍️  
