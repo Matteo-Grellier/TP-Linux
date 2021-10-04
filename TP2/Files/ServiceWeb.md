@@ -51,3 +51,5 @@ Sur l'image ci-dessous vous pouvez voir le fichier contenant le code source de l
 ![screenfichieroriginal]()
 
 Vous n'avez plus qu'à tout supprimer et écrire ce que vous voulez.
+
+<--- [Configurez les services réseaux](ServiceReseau.md) |Page 3| [Nom de domaine](DNS.md) --->

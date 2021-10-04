@@ -23,3 +23,4 @@ Dans VirtualBox on peut voir que j'ai bien 2 VM Debian disponible.
 
 ✍️ *Il vaut mieux appeller la deuxième ``HA``("High Accessibility", mais on y reviendrat plus tard) pour ne pas confondre avec la première* ✍️  
 
+<--- [Sommaire](Sommaire.md) |Page 1| [Configurez les services réseaux](ServiceReseau.md) --->

@@ -16,7 +16,7 @@ Pour ce faire on va passer par plusieurs étapes.
 3. [Configurez les services Web](ServiceWeb.md)
    1. [Créer un site Web](https://github.com/Matteo-Grellier/TP-Linux/blob/main/TP2/Files/ServiceWeb.md#cr%C3%A9ation-dun-site-web) 👨‍💻
    2. [Nom de domaine](DNS.md)
-   3. Certificat SSL 🔑
+   3. [Certificat SSL](SSL.md) 🔑
 4. Mise en place d'une solution de haute disponibilité 🕥
    1. Corosync
    2. Pacemaker

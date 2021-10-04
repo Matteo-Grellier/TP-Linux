@@ -15,3 +15,5 @@ Tout d'abord je change le mode d'accès réseau en le mettant en Bridgee au lieu
 
 Sur la Débian principale il va falloir récupérer l'ipv4 qu'il faudrat réutiliser durant le tp avec la commande ``ip a``  
 ![](../Screens/IPV4.png)
+
+<--- [Configurez les services Réseaux](ServiceReseau.md) |Page 2| [Configurez les serices web](ServiceWeb.md) --->
