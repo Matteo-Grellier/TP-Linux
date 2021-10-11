@@ -1,4 +1,6 @@
-![image d'introduction]
+![](../Screens/PremièrePage.png)
+
+# TP N°2 Mise en place d'une Infrastructure Réseau
 
 # Sommaire :
 
@@ -7,7 +9,7 @@ Contexte 👷
 >Suite à la perte des serveurs OVH, Marie Richard souhaite rapatrier son serveur web en interne.  
 >Il faut donc donc mettre en place un nouveau site web interne.
 
-On va voir comment configurez un DNS mais aussi comment créer une page web avec Apache2
+On va voir comment configurer un DNS mais aussi comment créer une page web avec Apache2
 ------
 
 Pour ce faire on va passer par plusieurs étapes.

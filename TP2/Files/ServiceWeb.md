@@ -49,7 +49,7 @@ nano /var/www/html/index.html
 ```
 
 Sur l'image ci-dessous vous pouvez voir le fichier contenant le code source de la page guide apache.
-![screenfichieroriginal]()
+![screenfichieroriginal](../Screens/2021-10-11-225605.png)
 
 Vous n'avez plus qu'à tout supprimer et écrire ce que vous voulez, dont du code html et même css.
 
