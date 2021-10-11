@@ -16,7 +16,8 @@ service apache2 restart
 
 OU  
 ````
-✍️ *J'ai pu voir qu'avec certains membres de mon groupe, la commande du dessus ne fonctionnait pas. La commande suivante permet de faire la même chose mais d'une manière différente* ✍️
+✍️ J'ai pu voir qu'avec certains membres de mon groupe, la commande du dessus ne fonctionnait pas.  
+La commande suivante permet de faire la même chose mais d'une manière différente* ✍️
 ````
 
 ```sh
