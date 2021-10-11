@@ -64,4 +64,4 @@ Votre site devrez apparaître avec le logo du petit cadenas ou en tout cas il de
 
 ![](../Screens/2021-10-05-220851.png)
 
-<--- [Nom de domaine](DNS.md) |Page 5| [Conclusion](Conclusion.md) --->
+<--- [Nom de domaine](DNS.md) |Page 5| [HA](HA.md) --->
