@@ -2,6 +2,10 @@
 
 ## Prérequis
 
+Nous allons utiliser la deuxième machine virtuel créer au début du tp.
+
+J'ai modifier le nom de mon DNS, au lieu de `inform` j'ai mis ``inform-main`` et j'en ai créer une autre avec l'adresse ip de ma seconde machine au nom de `inform-second`
+
 - Dans cette partie on va voir comment mettre en place un serveur secondaire qui va intervenir lorsque le serveur primaire aura des problèmes.
 - On va se servir de notre deuxième VM.
 
@@ -110,3 +114,5 @@ On définit l'ip ?
 On peut voir avec la commande `crm_mon --one-shot -V` qu'une nouvelle ressource à été rajouté.
 
 ![](../Screens/2021-10-09-235335.png)
+
+<--- [Certificat SSL](SSL.md) |Page 6| [Conclusion](Conclusion.md) --->

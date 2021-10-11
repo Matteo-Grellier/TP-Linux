@@ -18,4 +18,5 @@ Pour ce faire on va passer par plusieurs étapes.
 4. [Nom de domaine](DNS.md)
 5. [Certificat SSL](SSL.md) 🔑
 6. [Mise en place d'une solution de haute disponibilité](HA.md) 🕥
+7. [Conclusion](Conclusion.md) 
 
