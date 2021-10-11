@@ -8,7 +8,7 @@ On va avoir besoin du package apache2
 apt-get install apache2
 ```
 
-redémarrer les services apache2 pour être que tout fonctionne
+redémarrer les services apache2 pour être sûr que tout fonctionne
 
 ```sh
 service apache2 restart
@@ -35,7 +35,7 @@ Cela va avoir pour effet d'afficher cette page.
 ![](../Screens/Apache2.png)
 
 ````
-✍️ En installant apache2 une page guide est directement héberger sur votre LocalHost, cette page explique les fondamentaux de l'utilisation d'apache dont comment modifier cette page qui va nous servir de page web 😉 ✍️
+✍️ En installant apache2 une page de guide est directement héberger sur votre LocalHost, cette page explique les fondamentaux de l'utilisation d'apache dont comment modifier cette page qui va nous servir de page web ✍️
 ````
 
 Il va falloir aller modifier le fichier se trouvant ici `/var/www/html/index.html`  
@@ -47,9 +47,16 @@ Il va falloir aller modifier le fichier se trouvant ici `/var/www/html/index.htm
 ```sh
 nano /var/www/html/index.html
 ```
+
 Sur l'image ci-dessous vous pouvez voir le fichier contenant le code source de la page guide apache.
 ![screenfichieroriginal]()
 
-Vous n'avez plus qu'à tout supprimer et écrire ce que vous voulez.
+Vous n'avez plus qu'à tout supprimer et écrire ce que vous voulez, dont du code html et même css.
+
+Axe d'amélioration
+------
+Le plus compliquée sur cette partie à été de comprendre réellement l'utilité d'Apache2 et son fonctionnement.
+
+------
 
 <--- [Configurez les services réseaux](ServiceReseau.md) |Page 3| [Nom de domaine](DNS.md) --->

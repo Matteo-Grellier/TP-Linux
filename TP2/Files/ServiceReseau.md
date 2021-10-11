@@ -2,7 +2,7 @@
 
 ## Prérequis | Informations utiles 🔧
 
-Pour ce tp je préfère me connecter à mon réseaux mobile en partage car la wifi sécurisé d'ynov pourrais poser problème.  
+Pour ce tp je préfère me connecter à mon réseaux mobile en partage car la wifi sécurisée d'ynov pourrais poser problème.  
 
 ## Adresse IP  
 
@@ -16,4 +16,4 @@ Tout d'abord je change le mode d'accès réseau en le mettant en Bridgee au lieu
 Sur la Débian principale il va falloir récupérer l'ipv4 qu'il faudrat réutiliser durant le tp avec la commande ``ip a``  
 ![](../Screens/IPV4.png)
 
-<--- [Configurez les services Réseaux](ServiceReseau.md) |Page 2| [Configurez les serices web](ServiceWeb.md) --->
+<--- [Mise en place des machine virtuelles](VM.md) |Page 2| [Configurez les serices web](ServiceWeb.md) --->
